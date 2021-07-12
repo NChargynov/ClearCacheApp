@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="middle_margin">20dp</dimen>
+    <dimen name="page_margin">16dp</dimen>
+    <dimen name="element_margin">8dp</dimen>
+    <dimen name="floating_margin">50dp</dimen>
+</resources>
